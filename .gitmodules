@@ -1,3 +1,4 @@
 [submodule "odh-manifests"]
 	path = odh-manifests
-	url = https://github.com/red-hat-data-services/odh-manifests
+	url = https://github.com/Jooho/odh-manifests
+        branch = pinned_image
